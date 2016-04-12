@@ -1,6 +1,6 @@
 id: CommerceApp
 name: CommerceApp
-description: Commerce Application with NSX!
+description: Commerce Application with NSX
 status: PUBLISHED
 properties:
   __nsx.management_endpoint_name:
